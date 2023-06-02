@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ComposeBasic</string>
+
+    <string name="second_app_bar">리스트 입니다!!</string>
+
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="title_activity_fourth">FourthActivity</string>
+    <string name="title_activity_tutorial">TutorialActivity</string>
+</resources>
