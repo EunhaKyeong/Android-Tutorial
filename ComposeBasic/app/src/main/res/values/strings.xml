@@ -1,10 +1,30 @@
 <resources>
     <string name="app_name">ComposeBasic</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 
     <string name="second_app_bar">리스트 입니다!!</string>
-
-    <string name="title_activity_second">SecondActivity</string>
     <string name="title_activity_third">ThirdActivity</string>
     <string name="title_activity_fourth">FourthActivity</string>
     <string name="title_activity_tutorial">TutorialActivity</string>
+    <string name="title_activity_box">BoxActivity</string>
+    <string name="title_activity_box_with_constraint">BoxWithConstraintActivity</string>
+    <string name="title_activity_text">TextActivity</string>
+
+    <string name="content_dummy_short">물방아 원질이 무엇을 소담스러운 청춘의 칼이다. 없으면 용감하고 사는가 그들에게 이상, 새가 무엇을 같이 커다란 것이다.</string>
+    <string name="content_dummy_long">안고, 속잎나고, 인생을 앞이 같이, 가치를 이 보내는 있으랴? 하여도 앞이 있을 용기가 뿐이다. 같이, 목숨이 심장은 황금시대의 소리다.이것은 교향악이다. 이상은 너의 인간은 설레는 방황하여도, 커다란 싶이 곧 따뜻한 이것이다. 피가 위하여, 두기 봄바람을 피고, 것이다. 불어 능히 없으면 그들의 인생을 칼이다. 실로 열락의 주는 따뜻한 생의 일월과 천고에 속잎나고, 내는 이것이다. 우리의 생의 새 것이다. 얼음에 이상이 인생에 할지니, 듣기만 있으랴?
+
+충분히 용감하고 힘차게 트고, 소금이라 꾸며 피가 않는 미인을 말이다. 곧 가슴에 같이, 있는가? 산야에 만물은 굳세게 눈에 없으면, 밥을 있다. 그들의 튼튼하며, 투명하되 가치를 심장은 보는 칼이다. 크고 곳으로 대한 동산에는 것이다. 노래하며 뜨거운지라, 꽃이 피고 품에 사는가 황금시대를 끓는 칼이다. 관현악이며, 그러므로 끓는 풀밭에 구할 청춘의 이것이야말로 가슴에 미인을 위하여서. 우리의 인간이 피가 곧 그들에게 인생에 같은 이것이다. 바이며, 가치를 우리 싹이 품고 보내는 시들어 운다.
+
+때에, 생의 하는 소담스러운 힘있다. 평화스러운 그것은 품으며, 그들의 영원히 이상 못할 얼음이 바이며, 그리하였는가? 그들에게 사는가 그들에게 심장의 교향악이다. 생명을 새 원질이 이는 행복스럽고 꽃이 하는 보라. 듣기만 이상의 안고, 타오르고 크고 예가 이성은 우리 운다. 아니더면, 것이다.보라, 우리의 듣기만 고동을 날카로우나 청춘에서만 이상 이상의 보라. 그들의 보이는 하였으며, 운다. 이 찾아 쓸쓸한 관현악이며, 설레는 열매를 아니다. 옷을 인간은 청춘 듣는다.
+
+돋고, 품에 같은 수 발휘하기 위하여 대한 황금시대다. 인생에 얼마나 것은 운다. 미묘한 피에 이것이야말로 청춘에서만 모래뿐일 불어 것이다. 바이며, 풀밭에 가치를 위하여서. 길을 불어 지혜는 피어나기 구하지 찾아 하여도 것이 자신과 이것이다. 보이는 군영과 못하다 굳세게 따뜻한 힘차게 뜨고, 것이 있으랴? 보내는 얼마나 우리 그와 아니다. 수 사는가 싸인 것이다. 하여도 살 사람은 있을 하는 인류의 것이다. 것이 인간은 주며, 청춘에서만 반짝이는 천하를 거친 그리하였는가? 하여도 있으며, 너의 황금시대의 끓는 약동하다.</string>
+    <string name="title_activity_shape">ShapeActivity</string>
 </resources>

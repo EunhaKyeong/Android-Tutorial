@@ -14,6 +14,26 @@
         android:theme="@style/Theme.ComposeBasic"
         tools:targetApi="31">
         <activity
+            android:name=".ShapeActivity"
+            android:exported="false"
+            android:label="@string/title_activity_shape"
+            android:theme="@style/Theme.ComposeBasic" />
+        <activity
+            android:name=".TextActivity"
+            android:exported="false"
+            android:label="@string/title_activity_text"
+            android:theme="@style/Theme.ComposeBasic" />
+        <activity
+            android:name=".BoxWithConstraintsActivity"
+            android:exported="false"
+            android:label="@string/title_activity_box_with_constraint"
+            android:theme="@style/Theme.ComposeBasic" />
+        <activity
+            android:name=".BoxActivity"
+            android:exported="false"
+            android:label="@string/title_activity_box"
+            android:theme="@style/Theme.ComposeBasic" />
+        <activity
             android:name=".TutorialActivity"
             android:exported="false"
             android:label="@string/title_activity_tutorial"

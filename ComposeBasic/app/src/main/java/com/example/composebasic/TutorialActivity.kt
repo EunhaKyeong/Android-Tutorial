@@ -54,7 +54,7 @@ private fun Container() {
                 .fillMaxSize()
                 .padding(vertical = it.calculateTopPadding() + 8.dp, horizontal = it.calculateStartPadding(LayoutDirection.Ltr) + 16.dp),
 
-        ) {
+            ) {
             TutorialBtn(text = "SecondActivity", onClick = {
                 context.startActivity(Intent(context, SecondActivity::class.java))
             })
@@ -65,6 +65,22 @@ private fun Container() {
 
             TutorialBtn(text = "FourthActivity", onClick = {
                 context.startActivity(Intent(context, FourthActivity::class.java))
+            })
+
+            TutorialBtn(text = "BoxActivity", onClick = {
+                context.startActivity(Intent(context, BoxActivity::class.java))
+            })
+
+            TutorialBtn(text = "BoxWithConstraintsActivity", onClick = {
+                context.startActivity(Intent(context, BoxWithConstraintsActivity::class.java))
+            })
+
+            TutorialBtn(text = "TextActivity", onClick = {
+                context.startActivity(Intent(context, TextActivity::class.java))
+            })
+
+            TutorialBtn(text = "ShapeActivity", onClick = {
+                context.startActivity(Intent(context, ShapeActivity::class.java))
             })
         }
     }
