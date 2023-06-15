@@ -14,6 +14,11 @@
         android:theme="@style/Theme.ComposeBasic"
         tools:targetApi="31">
         <activity
+            android:name=".ButtonActivity"
+            android:exported="false"
+            android:label="@string/title_activity_button"
+            android:theme="@style/Theme.ComposeBasic" />
+        <activity
             android:name=".ShapeActivity"
             android:exported="false"
             android:label="@string/title_activity_shape"
