@@ -82,6 +82,10 @@ private fun Container() {
             TutorialBtn(text = "ShapeActivity", onClick = {
                 context.startActivity(Intent(context, ShapeActivity::class.java))
             })
+
+            TutorialBtn(text = "RememberMutableStateTutorialActivity", onClick = {
+                context.startActivity(Intent(context, RememberMutableStateTutorialActivity::class.java))
+            })
         }
     }
 

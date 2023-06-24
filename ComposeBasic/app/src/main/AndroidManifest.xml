@@ -14,6 +14,11 @@
         android:theme="@style/Theme.ComposeBasic"
         tools:targetApi="31">
         <activity
+            android:name=".RememberMutableStateTutorialActivity"
+            android:exported="false"
+            android:label="@string/title_activity_remember_mutable_state_tutorial"
+            android:theme="@style/Theme.ComposeBasic" />
+        <activity
             android:name=".ButtonActivity"
             android:exported="false"
             android:label="@string/title_activity_button"
